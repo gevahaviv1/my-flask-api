@@ -1,0 +1,8 @@
+Welcome! This assignment tests your ability to work with APIs, handle user input, and build
+a simple backend application. You will use OpenAI’s GPT-4o API to complete one of the
+projects below.
+You can use Node.js, Python, or any other backend framework of your choice. No frontend
+code is required—you will build only API endpoints, which can be tested using tools like
+Postman, cURL, or Swagger.
+A temporary API Key will be provided. Keep it secret, don’t upload the key to GitHub or any
+shared repository, use the .env file (dotenv) to store environment variables
